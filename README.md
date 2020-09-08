@@ -1,2 +1,2 @@
 # HORRORTEAM2
-this is the right one he does things so out of order -_-
+Team 2 horror repository 
